@@ -1,1 +1,1 @@
-{"status":"success","result":"7","pers1":"daun","pers2":"383647934","pers3":"2332","pers4":"2332","pers5":"2332","pers6":"2332","pers7":"2332","pers8":"2332","pers9":"2332","pers10":"2332","pers11":"2332","pers12":"2332","pers13":"2332","pers14":"2332","pers15":"2332"}
+{"status":"success","result":"7","pers1":"daun","pers2":"2332","pers3":"2332","pers4":"2332","pers5":"2332","pers6":"2332","pers7":"2332","pers8":"2332","pers9":"2332","pers10":"2332","pers11":"2332","pers12":"2332","pers13":"2332","pers14":"2332","pers15":"2332"}
